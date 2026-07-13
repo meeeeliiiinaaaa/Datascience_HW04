@@ -75,7 +75,7 @@ Analyzed CNN model behavior using multiple explainability methods:
   - Reasons for prediction errors
   - Potential training improvements
 
-### Bonus: Full End-to-End Workflow
+### Part 7: Full End-to-End Workflow
 Combined all techniques into a complete ML workflow:
 
 **Data Cleaning → ML Pipeline → Imbalance Handling → Generative Modeling → Explainable AI**
