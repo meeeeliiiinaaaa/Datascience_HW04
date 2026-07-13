@@ -1,6 +1,6 @@
 # Datascience_HW04
 
-This project explores advanced machine learning workflows, including data preprocessing, imbalanced learning, generative models, and explainable AI techniques.
+In this homework we explore advanced machine learning workflows, including data preprocessing, imbalanced learning, generative models, and explainable AI techniques.
 
 ### Part 1: Machine Learning Pipelines
 - Built end-to-end ML pipelines for data loading, cleaning, preprocessing, and classification.
